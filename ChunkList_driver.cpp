@@ -1,10 +1,5 @@
 /**
- * Created by Varick Erickson on 2/9/2021.
- *
- * This file is not graded.  This is a good place to start before using
- * the provided test functions. It shows examples of all the available
- * in ChunkList.  Feel free to modify this file and use it for debugging.
- *
+ * Skeleton code created by Varick Erickson on 2/9/2021. Completed by Mei Sediqi
  */
 
 #include "ChunkList.h"
